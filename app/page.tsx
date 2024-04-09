@@ -28,6 +28,8 @@ export default function Home() {
         </div>
       </div>
 
+      <h1>NEXT.JS</h1>
+
       <div className={styles.center}>
         <Image
           className={styles.logo}
