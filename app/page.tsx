@@ -2,6 +2,7 @@ import Image from 'next/image'
 import styles from './page.module.css'
 import {adaptForAppRouterInstance} from "next/dist/shared/lib/router/adapters";
 
+
 export default function Home() {
   return (
     <main className={styles.main}>
