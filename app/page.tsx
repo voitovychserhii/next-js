@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Menu />
-      <h1>Home Vercel Test</h1>
+      <h1>Home</h1>
     </>
   );
 }
